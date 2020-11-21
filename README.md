@@ -1,3 +1,6 @@
+# Disclaimer
+I have built my own Funda Scraper tool. I will be comparing my tool versus this one, after i update it, as it seems to be outdated and no longer working
+
 # funda-scraper
 Scraper of the Dutch real estate website [Funda.nl](http://www.funda.nl/), written in Python Scrapy.
 
